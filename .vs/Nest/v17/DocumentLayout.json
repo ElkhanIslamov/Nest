@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Nest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|d:\\desktop\\nest\\nest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|solutionrelative:nest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|D:\\Desktop\\Nest\\nest\\viewmodels\\submitpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|solutionrelative:nest\\viewmodels\\submitpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|D:\\Desktop\\Nest\\nest\\views\\auth\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|solutionrelative:nest\\views\\auth\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|D:\\Desktop\\Nest\\nest\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|solutionrelative:nest\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|D:\\Desktop\\Nest\\nest\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF796E6-B1CF-4298-ADF3-947E304B4095}|Nest\\Nest.csproj|solutionrelative:nest\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 274,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubmitPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\Nest\\Nest\\ViewModels\\SubmitPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Nest\\ViewModels\\SubmitPasswordViewModel.cs",
+              "ToolTip": "D:\\Desktop\\Nest\\Nest\\ViewModels\\SubmitPasswordViewModel.cs",
+              "RelativeToolTip": "Nest\\ViewModels\\SubmitPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:53:34.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Nest\\Nest\\Views\\Auth\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Nest\\Views\\Auth\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Desktop\\Nest\\Nest\\Views\\Auth\\ResetPassword.cshtml",
+              "RelativeToolTip": "Nest\\Views\\Auth\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:50:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\Nest\\Nest\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Nest\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\Desktop\\Nest\\Nest\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Nest\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:46:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Nest\\Nest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Nest\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Desktop\\Nest\\Nest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Nest\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:35:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Nest\\Nest\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Nest\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\Desktop\\Nest\\Nest\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Nest\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T19:32:45.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
